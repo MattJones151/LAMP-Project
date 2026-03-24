@@ -45,5 +45,5 @@ The project was developed as part of junior design and deployed on a Linux serve
 
 ## Author
 
-Matthew G. Jones  
+Matthew G. Jones & Group 4
 Computer Science Student – University of Central Florida
